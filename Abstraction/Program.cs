@@ -23,6 +23,7 @@ namespace Abstraction
             Console.WriteLine("The triangle's area is " + a1);
             Console.ReadLine();
             Circle C1 = new Circle(v1);
+            //test
             double a2 = C1.GetArea();
             Console.WriteLine("The area of the circle is " + a2);
             Console.ReadLine();
